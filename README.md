@@ -11,12 +11,12 @@ To get started with this project, follow these steps:
 2. Navigate to the project directory using your terminal or command prompt.
 
 3. Run the following command to install the required dependencies:
-npm install
+`npm install`
 
-4. Start the development server with:
-npm start
+5. Start the development server with:
+`npm start`
 
-5. Open your web browser and go to `http://localhost:3000` to view and play the tic-tac-toe game.
+6. Open your web browser and go to `http://localhost:3000` to view and play the tic-tac-toe game.
 
 ## Project Improvements
 
